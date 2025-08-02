@@ -1,0 +1,9 @@
+[submodule "Legal_Brief_Using_LaTeX"]
+	path = Legal_Brief_Using_LaTeX
+	url = https://github.com/gkochans/Legal_Brief_Using_LaTeX/
+[submodule "lawtex"]
+	path = lawtex
+	url = https://github.com/QuantLaw/lawtex
+[submodule "brewbaker-lawtex"]
+	path = brewbaker-lawtex
+	url = https://github.com/chadbrewbaker/lawtex
