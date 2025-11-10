@@ -7,3 +7,6 @@
 [submodule "brewbaker-lawtex"]
 	path = brewbaker-lawtex
 	url = https://github.com/chadbrewbaker/lawtex
+[submodule "lawtex-quantlaw"]
+	path = lawtex-quantlaw
+	url = https://github.com/QuantLaw/lawtex
